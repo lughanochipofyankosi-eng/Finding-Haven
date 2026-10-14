@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>Courageous Kids Foundation</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <header>
+        <nav class="navbar">
+
+            <div class="logo">
+                Courageous Kids Foundation
+            </div>
+
+            <div class="nav-links">
+                <a href="#home">Home</a>
+                <a href="#about">About</a>
+                <a href="#stories">Stories</a>
+                <a href="#gallery">Gallery</a>
+                <a href="#contact">Contact</a>
+            </div>
+
+        </nav>
+    </header>
+
+
+    <!-- Hero Section -->
+    <main>
+
+        <section id="home" class="hero">
+
+            <div class="hero-content">
+
+                <p class="eyebrow">
+                    A Project of Resilience and Prosperity
+                </p>
+
+                <h1>
+                    Finding Haven<br>
+                Little kids with big dreams
+                </h1>
+
+                <p class="hero-text">
+                    Exploring the lives, challenges and
+                    opportunities of children growing up
+                    at Courageous kids foundation in Blantyre, Malawi.
+                </p>
+
+                <a href="#stories" class="hero-button">
+                    Explore the Stories
+                </a>
+
+            </div>
+
+        </section>
+
+
+        <!-- Introduction -->
+        <section id="about" class="intro">
+
+            <p class="section-label">
+                THE PROJECT
+            </p>
+
+            <h2>
+                Beyond the walls of an orphanage
+            </h2>
+
+            <p>
+                Finding Haven & Prosperity explores the
+                experiences of children living in orphanage
+                centres, highlighting their challenges,
+                resilience, aspirations and opportunities
+                for a better future.
+            </p>
+
+        </section>
+
+
+        <!-- Featured Stories -->
+        <section id="stories" class="stories">
+
+            <p class="section-label">
+                FEATURED STORIES
+            </p>
+
+            <h2>
+                Stories that deserve to be heard
+            </h2>
+
+            <div class="story-grid">
+
+                <article class="story-card">
+
+                    <div class="story-image">
+                        <span>PHOTO</span>
+                    </div>
+
+                    <div class="story-content">
+
+                        <p class="category">
+                            FEATURE
+                        </p>
+
+                        <h3>
+                            Life beyond the walls
+                        </h3>
+
+                        <p>
+                            Discovering the realities,
+                            dreams and aspirations of
+                            children growing up in care.
+                        </p>
+
+                        <a href="#">
+                            Read Story →
+                        </a>
+
+                    </div>
+
+                </article>
+
+
+                <article class="story-card">
+
+                    <div class="story-image">
+                        <span>PHOTO</span>
+                    </div>
+
+                    <div class="story-content">
+
+                        <p class="category">
+                            EDUCATION
+                        </p>
+
+                        <h3>
+                            Building a future through education
+                        </h3>
+
+                        <p>
+                            Exploring how education creates
+                            opportunities for children in
+                            orphanage centres.
+                        </p>
+
+                        <a href="#">
+                            Read Story →
+                        </a>
+
+                    </div>
+
+                </article>
+
+
+                <article class="story-card">
+
+                    <div class="story-image">
+                        <span>PHOTO</span>
+                    </div>
+
+                    <div class="story-content">
+
+                        <p class="category">
+                            COMMUNITY
+                        </p>
+
+                        <h3>
+                            The people behind the care
+                        </h3>
+
+                        <p>
+                            A look at caregivers and communities
+                            supporting children in need.
+                        </p>
+
+                        <a href="#">
+                            Read Story →
+                        </a>
+
+                    </div>
+
+                </article>
+
+            </div>
+
+        </section>
+
+
+        <!-- Gallery -->
+        <section id="gallery" class="gallery">
+
+            <p class="section-label">
+                PHOTO STORY
+            </p>
+
+            <h2>
+                Through the lens
+            </h2>
+
+            <div class="gallery-grid">
+
+                <div class="gallery-item">PHOTO 01</div>
+                <div class="gallery-item">PHOTO 02</div>
+                <div class="gallery-item">PHOTO 03</div>
+                <div class="gallery-item">PHOTO 04</div>
+
+            </div>
+
+        </section>
+
+
+        <!-- Contact -->
+        <section id="contact" class="contact">
+
+            <p class="section-label">
+                GET IN TOUCH
+            </p>
+
+            <h2>
+                Have a story to share?
+            </h2>
+
+            <p>
+                Contact us to learn more about the
+                Finding Haven & Prosperity project.
+            </p>
+
+        </section>
+
+    </main>
+
+
+    <!-- Footer -->
+    <footer>
+
+        <p>
+            © 2026 Finding Haven & Prosperity
+        </p>
+
+        <p>
+            A Multimedia Journalism Project
+        </p>
+
+    </footer>
+
+
+    <script src="script.js"></script>
+
+</body>
+</html>
